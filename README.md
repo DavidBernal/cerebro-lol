@@ -7,6 +7,7 @@ Cerebro plugin for a quickly counter and build searches for League of Legends
 In Cerebro, type:
 
 > lol counter talon
+
 > counter talon
 
 ## Roadmap
