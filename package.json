@@ -21,7 +21,10 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin"
+    "cerebro-plugin",
+    "lol",
+    "league of legends",
+    "counter"
   ],
   "devDependencies": {
     "babel-cli": "^6.18.0",
